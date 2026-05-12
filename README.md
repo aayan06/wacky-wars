@@ -15,3 +15,4 @@ Dodge enemy bombs, rack up your score, and survive as long as you can!
 - Game Design & Art: Aayan Abdullah
 - Built with: Phaser 3
 - Audio & Art Assets: Kenny Assets (kenney.nl)
+https://aayan06.github.io/wacky-wars
